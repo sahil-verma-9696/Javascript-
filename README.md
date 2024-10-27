@@ -8,3 +8,8 @@
   - It is **Single threaded** ( it can only execute one command at a time ).
   - It is **Syncronous** ( it can execute code syncronously( one after another ) line by line ).
   - 
+
+
+# JavaScript runntime 
+
+ - [Event loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
